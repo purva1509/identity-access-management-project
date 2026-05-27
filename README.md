@@ -275,7 +275,7 @@ The Okta System Log was reviewed. Every login, every MFA challenge, every admin 
 
 ---
 
-## ✅ Final Summary
+##  Final Summary
 
 This project covers the full spectrum of identity and access management, from foundational access control theory on Linux to enterprise-grade platforms used in production environments today.
 
